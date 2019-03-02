@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2af29d9c-1e38-4a5b-a800-44cba6c2c3d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../go-learn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/closure/funandcs/funval_closure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/closure/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/collection/coll/arr.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/collection/coll/map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/collection/coll/slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/collection/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/methodsinterface/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/methodsinterface/mi/inter.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/methodsinterface/mi/methods.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/pointerstruct/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/pointerstruct/ptrstruct/pointer_struct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/thread/concurrent/channel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/thread/concurrent/routine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/thread/concurrent/select.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/thread/concurrent/waitgroup.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go-learn/src/thread/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ywzou/thread/SharedSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ywzou/thread/ThreadAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ywzou/thread/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ywzou/thread/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go-first/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go-first/.idea/go-first.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go-first/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go-first/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go-first/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go-first/code/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go-first/code/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go-learn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/ywzou/thread/Ticket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
+            <state relative-caret-position="234">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
@@ -83,8 +56,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
+    <option name="x" value="79" />
+    <option name="y" value="62" />
     <option name="width" value="1400" />
     <option name="height" value="781" />
   </component>
@@ -96,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +92,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -132,7 +105,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,17 +181,22 @@
       <workItem from="1547363863423" duration="5882000" />
       <workItem from="1547422902040" duration="346000" />
       <workItem from="1547982692452" duration="37000" />
+      <workItem from="1550286530857" duration="151000" />
+      <workItem from="1550286702395" duration="251000" />
+      <workItem from="1550287016611" duration="50000" />
+      <workItem from="1550287084519" duration="61000" />
+      <workItem from="1550287163793" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6265000" />
+    <option name="totallyTimeSpent" value="6810000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="781" extended-state="0" />
+    <frame x="79" y="62" width="1400" height="781" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27540502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -237,6 +216,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -246,6 +226,8 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +282,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ywzou/thread/Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
+        <state relative-caret-position="234">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
